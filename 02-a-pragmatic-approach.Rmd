@@ -1,0 +1,35 @@
+# Chapter 2. A pragmatic approach
+
+## The essence of good design
+
+The ETC principle - easy to change
+
+*Good design is easier to change than bad design*
+
+## DRY - The evils of duplication
+
+*Every piece of knowledge must have a single, unambiguous, authoritative representation within a system*
+
+- Level 1 DRY - Don't copy and paste lines of code. 
+- Level 2 DRY - Use self-explanatory names
+- Level 3 DRY - Isolate one idea to one part in the data structure
+- Level 4 DRY - Create systems that are single sources of truth
+- Level 5 DRY - Communicate all knowledge across your team
+
+## Orthogonality
+
+*In a well-designed system, changes to individual components generally do not effects on other components*
+
+## Reversibility
+
+## Tracer bullets
+
+## Prototypes and Post-it notes
+
+## Domain languages
+
+## Estimating
+
+
+
+

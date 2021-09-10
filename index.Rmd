@@ -1,0 +1,15 @@
+---
+title: "The Pragmatic Programmer by David Thomas and Andrew Hunt"
+subtitle: "Book Notes"
+author: "Data Salaryman"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Book Notes: The Pragmatic Programmer by David Thomas and Andrew Hunt
+
+## Colophon
+
+```{r}
+devtools::session_info()
+```

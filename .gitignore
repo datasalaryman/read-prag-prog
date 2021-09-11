@@ -2,3 +2,6 @@
 
 # Bookdown output
 _book/*
+
+# System files
+.DS_Store

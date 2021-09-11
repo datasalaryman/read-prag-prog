@@ -20,7 +20,24 @@ The ETC principle - easy to change
 
 *In a well-designed system, changes to individual components generally do not effects on other components*
 
+> You want to design components that are self-contained: independent, and with a single, well-defined purpose ...
+
+Other words for orthogonality:
+- modular
+- component-based
+- layered
+
+<!--
+
+### Toolkits and libraries
+
+> When you bring in a toolkit (or even a library from other members of your team), ask yourself whether it imposes changes on your code that shouldn't be there. 
+
+-->
+
 ## Reversibility
+
+> The mistake lies in assuming that any decision is cast in stone—and in not preparing for the contingencies that might arise. Instead if carving decisions in stone, think of them more as being written in the sand at the beach. A big wave can come and wipe them out at any time.
 
 ## Tracer bullets
 
